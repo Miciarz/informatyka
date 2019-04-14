@@ -3,4 +3,4 @@ project(informatyka)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(informatyka main.cpp)
+add_executable(informatyka main.cpp lider.cpp)
